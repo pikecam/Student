@@ -13,6 +13,7 @@ public class Student {
     
     private String name, program;
     private int id;
+    private String email;
     
     /**
      * Get the value of ID
